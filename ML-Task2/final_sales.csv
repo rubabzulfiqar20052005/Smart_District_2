@@ -1,0 +1,7 @@
+product,region,date,quantity,price,revenue,category,brand
+Laptop,North,2026-01-01,2,1000,2000,Electronics,Dell
+Mouse,North,2026-01-03,10,20,200,Accessories,Logitech
+Keyboard,North,2026-01-05,4,50,200,Accessories,HP
+Mobile,North,2026-01-06,6,500,3000,Electronics,Samsung
+Laptop,North,2026-01-08,1,1000,1000,Electronics,Dell
+Mobile,North,2026-01-10,3,500,1500,Electronics,Samsung
